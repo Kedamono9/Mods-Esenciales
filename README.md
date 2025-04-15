@@ -36,6 +36,7 @@ zlib1.dll
 RunDLL32 Fix: arregla algunas icompatibilidades con Windows 8, 8.1, 10 y 11, y arrgla un error con el tema aero en Windows Vista y 7 ya que el aero se dectiva cada que ejecutamos el juego hace que tarde un poco menos y no salgan errores con los otros mods (ojo no tengas el juego en alguna carpeta del disco local como Program Files o Program Files (x86) el caso que tengas Vista, 7 u 8.1), esto es mas el ambito de compatiblidad.
 
 NoDEP: quita un bloqueo relacionado con Windows, Debido a ciertas funciones de algunos mods, Windows termina bloqueándolos mediante una protección, llamada DEP (Data Execution Prevention).
+
 RepairGTA: corrige un error que causaba que los coches de las novias (en teoría, la versión bloqueada, antes del 50% de progreso) se eliminaran. Si este problema persiste en tu juego, instala este script para solucionarlo.
 
 https://www.mixmods.com.br/2019/06/sa-essentials-pack/
