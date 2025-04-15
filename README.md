@@ -15,7 +15,7 @@ ModLoader: la forma hipermega facil de instalar casi cualquier mod sin dañar el
 
 SilentPatch (20th Anversary Version): esta version trae aun mas arreglos que su version anterior y algunos de las versiones del decimo aniversario y la estafa defectiva.
 
-Widescreen Fix HOR+ Support (by ThirteenAG): este mod adpata el juego a las resoluciones mas actuales ya que cuando el GTA San Andreas se estaba porteando a PC, ya se estaban vendiendo monitores con resolucion 1280x720, y el juego no fue diseñado para esas resoluciones, asi trajeron una opcion para adaptarla, pero fue hecho a las prisas arruinando la interfaz deel juego y el menu de opciones.
+Widescreen Fix HOR+ Support (by ThirteenAG): este mod adpata el juego a las resoluciones mas actuales ya que cuando el GTA San Andreas se estaba porteando a PC, ya se estaban vendiendo monitores con resolucion 1280x720, y el juego no fue diseñado para esas resoluciones, asi trajeron una opcion para adaptarla, pero fue hecho a las prisas arruinando la interfaz del juego y el menu de opciones.
 
 Windowed Mode: trae el modo ventana al juego que nos muestra la cantidad de cuadros en los que corre y la libertad de adaptar la ventana a nuestro gusto.
 
